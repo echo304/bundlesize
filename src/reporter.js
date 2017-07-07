@@ -44,7 +44,7 @@ const compare = (files, masterValues = {}) => {
       }
 
       // if (files.length === 1) globalMessage = message
-      globalMessage.push(message)
+      globalMessage.push(message);
     }
   })
 
